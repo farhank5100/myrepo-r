@@ -1,9 +1,17 @@
-# my first repo
-print("my first repo")
+#this is from github
 print("hello from github")
 
-name = "Farhan Khalid"
-version = "Rstudio - in writing"
+a = 9
+b <- 6
+4 -> b
+
+name = "Farhan"
+version = "RStudio - in writing"
 
 print(name)
-print("these lines has been executed")
+print("these lines are written in Rstudio")
+
+Age = 20
+last_name= "khaid"
+print(last_name)
+print(Age)
