@@ -1,0 +1,6 @@
+#this is 2nd file in this repository
+
+name = "shawn willson"
+Description = "I'm data scientists, I'm working in alphabet"
+print(name)
+print(Description)
